@@ -28,7 +28,7 @@ $particl = new Particl('username','password');
 $particl = new Particl('username','password','host','port');
 // Defaults are:
 //	host = localhost
-//	port = 8332
+//	port = 51738
 //	proto = http
 // If you wish to make an SSL connection you can set an optional CA certificate or leave blank
 // This will set the protocol to HTTPS and some CURL flags
